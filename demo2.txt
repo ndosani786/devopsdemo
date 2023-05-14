@@ -1,1 +1,2 @@
 this is demo 2 file updated for commit
+this is third commit to see changes in git diff
