@@ -1,2 +1,0 @@
-this is demo file for git hub
-this is updated demo file after global config file update
